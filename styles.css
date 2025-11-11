@@ -1,0 +1,22 @@
+
+
+
+button {
+    border-radius: 5px;
+    margin: 5px;
+    width: 100px;
+    height: 40px;
+}
+
+#green {
+    background-color: green;
+}
+#blue {
+    background-color: blue;
+}
+#red {
+    background-color: red;
+}
+#random {
+    background-color: purple;
+}
